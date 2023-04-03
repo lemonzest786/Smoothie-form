@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 837 1410" width="200" height="300">
+  <path id="smoothie-icon" d="m656.83,1089.85l-29.33,235.64c0,39.22-31.79,71.01-71.01,71.01h-297.98c-39.22,0-71.01-31.79-71.01-71.01l-24.61-235.64s168.61-101.35,271.61-30.35,222.33,30.35,222.33,30.35Z" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="27"/>
+  <path d="m714.5,626.5l-57.67,463.35s-119.33,40.65-222.33-30.35-271.61,30.35-271.61,30.35l-48.39-463.35h600Z" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="27"/>
+  <rect x="13.5" y="565.5" width="803" height="60" rx="30" ry="30" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="27"/>
+  <path d="m714.31,564.5H115.69c18.02-149.3,145.15-265,299.31-265s281.29,115.7,299.31,265Z" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="27"/>
+  <polygon points="824.17 0 610.27 113.91 367.5 1281 398.86 1281 629.52 126.9 837 16.99 824.17 0"/>
+</svg>
